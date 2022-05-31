@@ -1,6 +1,7 @@
 # Verisse Sub
 
 - Este repósitório contem todas as legendas e respetivas fontes utilizadas nos projetos.
+- Qualquer um é livre do utilizar o conteúdo deste repositório como bem entender. 
 
 ## Motivo da criação do repositório
 
